@@ -1,4 +1,4 @@
-HIPAA-Compliant Hub and Spoke Network on Azure
+## HIPAA-Compliant Hub and Spoke Network on Azure
 
 HIPAA-compliant Azure hub-and-spoke network built with Terraform: central firewall inspection, isolated clinical and analytics spokes, forced egress routing, Key Vault, 90-day audit logging, and Defender for Cloud compliance monitoring.
 
@@ -19,7 +19,7 @@ Teardown
 What I Learned
 What I Would Do Differently
 
-1. The Business Problem
+# 1. The Business Problem
 
 Healthcare organizations that handle electronic Protected Health Information (ePHI) must meet the technical safeguards in the Health Insurance Portability and Accountability Act (HIPAA): access control, audit logging, integrity controls, and encryption in transit and at rest. Violations can bring fines of up to about $1.9 million per violation category per year, plus mandatory public breach disclosure.
 
