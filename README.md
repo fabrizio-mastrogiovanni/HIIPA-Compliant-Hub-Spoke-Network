@@ -11,6 +11,8 @@ HIPAA-compliant Azure hub-and-spoke network built with Terraform: central firewa
 | **Cost** | Azure Firewall ≈ $1.25/hour, plus hourly Bastion and Defender charges. Destroy when not in use. |
 | **Author** | [Fabrizio Mastrogiovanni](https://github.com/fabrizio-mastrogiovanni) |
 
+#Watch me: https://www.loom.com/share/b6c70e5436064c979b776ab66ac6050a
+
 ---
 
 ## Table of Contents
